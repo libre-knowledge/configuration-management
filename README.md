@@ -9,6 +9,8 @@
 
 以下列舉本主題相關的解決方案：
 
+* [.bashrc.d](https://github.com/brlin-tw/dot-bashrc.d)  
+  分散式的使用者 bash 初始化命令(run commands)設定檔管理解決方案
 * [.profile.d](https://github.com/brlin-tw/dot-profile.d)  
   分散式的使用者設定檔(user profile)管理解決方案
 

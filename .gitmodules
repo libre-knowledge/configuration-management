@@ -7,6 +7,10 @@
 #
 # Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+[submodule "dot-bashrc.d"]
+	path = dot-bashrc.d
+	url = https://github.com/brlin-tw/dot-bashrc.d.git
+	ignore = dirty
 [submodule "dot-profile.d"]
 	path = dot-profile.d
 	url = https://github.com/brlin-tw/dot-profile.d.git
