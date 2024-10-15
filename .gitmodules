@@ -15,3 +15,7 @@
 	path = dot-profile.d
 	url = https://github.com/brlin-tw/dot-profile.d.git
 	ignore = dirty
+[submodule "EditorConfig"]
+	path = EditorConfig
+	url = https://gitlab.com/libre-knowledge/editorconfig.git
+	ignore = dirty

@@ -11,7 +11,7 @@
 
 * [.bashrc.d](https://github.com/brlin-tw/dot-bashrc.d)  
   分散式的使用者 bash 初始化命令(run commands)設定檔管理解決方案
-* [EditorConfig](https://editorconfig.org/)  
+* [EditorConfig](https://gitlab.com/libre-knowledge/editorconfig)  
   自動配置一致的純文字文件編輯器設定
 * [.profile.d](https://github.com/brlin-tw/dot-profile.d)  
   分散式的使用者設定檔(user profile)管理解決方案
